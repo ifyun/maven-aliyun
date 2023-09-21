@@ -10,6 +10,6 @@ Maven 容器镜像，基于 Maven 官方镜像构建，替换仓库为阿里云�
 
 镜像名称：
 
-- `ghcr.io/imcloudfloating/maven-aliyun:3.8-openjdk-8`
-- `ghcr.io/imcloudfloating/maven-aliyun:3.8-openjdk-11`
-- `ghcr.io/imcloudfloating/maven-aliyun:3.8-openjdk-17`
+- `ghcr.io/ifyun/maven-aliyun:3.8-openjdk-8`
+- `ghcr.io/ifyun/maven-aliyun:3.8-openjdk-11`
+- `ghcr.io/ifyun/maven-aliyun:3.8-openjdk-17`
